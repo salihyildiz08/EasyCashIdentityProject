@@ -1,10 +1,3 @@
-GitHub reposundaki projeye bakarak bir `README.md` dosyası oluşturmak için, şu anda repo içeriğine doğrudan erişimim yok. Ancak, verdiğiniz GitHub bağlantısını açarak repo hakkında bazı detayları alabilir ve size Türkçe bir `README.md` dosyası hazırlayabilirim.
-
-Hemen bir göz atıp gerekli bilgileri toplayarak doğru bir dosya hazırlayacağım. Bir dakika!
-
-Görünüşe göre "EasyCashIdentityProject" repo hakkında yeterli açıklama veya dokümantasyon mevcut değil. Ancak, bu projede kullanılan temel teknolojiler ve katmanlı mimariyi göz önünde bulundurursak (HTML, C#, CSS, JavaScript), temel bir `README.md` dosyası şu şekilde olabilir:
-
----
 
 # EasyCashIdentityProject
 
